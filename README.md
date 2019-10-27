@@ -10,8 +10,8 @@
 
 ### 最新
 
-* [我在 GitHub 上的开源项目](https://www.yzhao.com.cn/my-github-repos)
-* [centos7下安装yum记录（yum命令失败：cannot find a valid baseurl for repo: base/7/x86_64，卸载后重新安装，并且配置国内yum源）](https://www.yzhao.com.cn/linux)
+* [我在 GitHub 上的开源项目](https://www.yzhao.com.cn/solo-v3.6.5/my-github-repos)
+* [centos7下安装yum记录（yum命令失败：cannot find a valid baseurl for repo: base/7/x86_64，卸载后重新安装，并且配置国内yum源）](https://www.yzhao.com.cn/solo-v3.6.5/linux)
 
 
 
